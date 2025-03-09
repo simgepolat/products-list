@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Akıllı Telefon",
+    "price": "7999 TL",
+    "image": "telefon.png",
+    "link": "https://example.com/telefon",
+    "detail": "Son teknoloji işlemci, 6GB RAM, 128GB depolama ve 48MP kamera ile donatılmış akıllı telefon. Hızlı şarj özelliği ve uzun pil ömrü ile günlük kullanımda mükemmel performans sunar."
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "price": "12499 TL",
+    "image": "laptop1.png",
+    "link": "https://example.com/laptop",
+    "detail": "Intel Core i7 işlemci, 16GB RAM, 512GB SSD ve 15.6 inç Full HD ekran. İnce ve hafif tasarımı ile hem iş hem de günlük kullanım için ideal. Uzun pil ömrü sayesinde gün boyu çalışabilirsiniz.",
+    "discountRate": 20
+  },
+  {
+    "id": 3,
+    "name": "Tablet",
+    "price": "4999 TL",
+    "image": "tablet.png",
+    "link": "https://example.com/tablet",
+    "detail": "10.2 inç Retina ekran, 64GB depolama alanı ve tüm gün süren pil ömrü. İster iş için ister eğlence için kullanın, her koşulda size eşlik edecek güçlü bir tablet.",
+    "discountRate": 25
+  },
+  {
+    "id": 4,
+    "name": "Kulaklık",
+    "price": "1499 TL",
+    "image": "./kulaklik.png",
+    "link": "https://example.com/kulaklik",
+    "detail": "Gürültü önleme teknolojisi, kablosuz bağlantı ve 30 saate knamear pil ömrü. Yüksek kaliteli ses deneyimi için tasarlanmış ergonomik yapıya sahip premium kulaklık."
+  },
+  {
+    "id": 5,
+    "name": "Akıllı Saat",
+    "price": "2999 TL",
+    "image": "saat.png",
+    "link": "https://example.com/saat",
+    "detail": "Sağlık takibi, GPS, su geçirmez tasarım ve 7 gün pil ömrü. Spor yaparken veya günlük aktivitelerinizde her an yanınızda olacak şık tasarımlı akıllı saat.",
+    "discountRate": 10
+  },
+  {
+    "id": 6,
+    "name": "Kamera",
+    "price": "8999 TL",
+    "image": "kamera.png",
+    "link": "https://example.com/kamera",
+    "detail": "24MP sensör, 4K video kayıt, optik görüntü sabitleme ve profesyonel lens desteği. Her anı en yüksek kalitede yakalamak isteyenler için tasarlanmış dijital fotoğraf makinesi."
+  }
+] 
