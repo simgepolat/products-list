@@ -77,49 +77,6 @@ script.onload = function() {
                 align-items: center;
             ">
                 <div style="
-                    display: flex;
-                    align-items: center;
-                    color: rgba(255,255,255,0.8);
-                    font-size: 14px;
-                ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 5px;">
-                        <path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path>
-                        <circle cx="12" cy="10" r="3"></circle>
-                    </svg>
-                    Mağazalar
-                </div>
-                
-                <div style="
-                    display: flex;
-                    align-items: center;
-                    color: rgba(255,255,255,0.8);
-                    font-size: 14px;
-                ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 5px;">
-                        <path d="M19 7v10a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V7"></path>
-                        <rect width="20" height="5" x="2" y="2" rx="2"></rect>
-                        <path d="M12 12v6"></path>
-                        <path d="M15 12v6"></path>
-                        <path d="M9 12v6"></path>
-                    </svg>
-                    Sepetim
-                </div>
-                
-                <div style="
-                    display: flex;
-                    align-items: center;
-                    color: rgba(255,255,255,0.8);
-                    font-size: 14px;
-                ">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 5px;">
-                        <path d="M18 20a2 2 0 0 0 1-3.75V9a7 7 0 1 0-14 0v7.25A2 2 0 0 0 6 20"></path>
-                        <path d="M10 20h4"></path>
-                        <path d="M2 8h20"></path>
-                    </svg>
-                    Bildirimler
-                </div>
-                
-                <div style="
                     background: linear-gradient(90deg, #7a00ff, #8e31ff);
                     color: white;
                     padding: 8px 15px;
